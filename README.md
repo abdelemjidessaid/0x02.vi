@@ -157,7 +157,7 @@ Write the answer into the file `/root/0x02_vi/pasting`.
 
 What is the command to undo what you just did?
 
-Write the answer into the file /root/0x02_vi/undoing.
+Write the answer into the file `/root/0x02_vi/undoing`.
 
 
 
